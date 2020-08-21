@@ -331,7 +331,6 @@ form.sign-in-form {
   .container {
     padding: 1.5rem;
   }
-
   .container:before {
     bottom: 72%;
     left: 50%;
